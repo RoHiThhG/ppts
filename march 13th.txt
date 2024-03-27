@@ -1,0 +1,21 @@
+1.static classes
+2.constructor
+3.can we define accces modifiers to constructors?
+yes,
+private constructor
+default
+parameterized
+copy
+static constructor
+4. drawbacks of inheritence
+5. diff b/w abstraction and encapsulation
+6. access modifiers
+7. static methods
+8. properties -auto and 
+9. ceiled methods
+10. ceiled classes
+11. partial methods
+12. partial classes
+13. tuples
+
+visual studio, microsoft server

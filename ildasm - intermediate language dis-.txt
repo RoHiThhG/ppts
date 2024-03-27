@@ -1,0 +1,6 @@
+ildasm - intermediate language dis-assembly
+assembly is 2 types:
+1. .exe
+2. .dll
+
+assembly is ILCode + Manifest(Meta Data)
